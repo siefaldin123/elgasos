@@ -1,0 +1,15 @@
+{
+  "name": "ksomk",
+  "version": "2.1.0",
+  "description": "ksomenk",
+  "main": "zbe.js",
+  "scripts": {
+    "test": "node zbe.js"
+  },
+  "dependencies": {
+    "discord.js": "^11.5.1",
+  },
+  "engines": {
+    "node": "8.x"
+  }
+}
