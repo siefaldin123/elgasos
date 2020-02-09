@@ -1,15 +1,16 @@
 {
-  "name": "ksomk",
-  "version": "2.1.0",
-  "description": "ksomenk",
-  "main": "zbe.js",
-  "scripts": {
-    "test": "node zbe.js"
-  },
+  "name": "scar-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
   "dependencies": {
-    "discord.js": "^11.5.1",
+    "discord.js": "^11.5.1"
   },
-  "engines": {
-    "node": "8.x"
-  }
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "saif",
+  "license": "ISC"
 }
+
