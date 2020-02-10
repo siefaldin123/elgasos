@@ -11,7 +11,7 @@ client.on("message", message => {
       .setThumbnail(`${message.author.avatarURL}`)
       .setDescription(`\n\n\`\`\`${message.content}\`\`\``)
       .setFooter(`From **${message.author.tag} (${message.author.id})**`);
-    client.channels.get("675900837813288960").send({ embed: embed });
+    client.channels.get("676244391832190988").send({ embed: embed });
   }
 });
 
